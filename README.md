@@ -21,7 +21,7 @@ User can enter a spectific date to filter the results for a given date.
 Java Script code listens for an event on the 'Filter Table' button and filters the data according to the user input.
 If no date is entered by the user, all the alien sightings in the dataset are displayed on the website.
 
-![]()
+![](https://github.com/Aastha-Arora/javascript-challenge/blob/master/UFO-level-1/static/images/Screen%20Shot%20UFO%20Level%201.png)
 
 ## UFO Level 2
 This page provides the user with an option to filter resuts based on multiple inputs in the form of dropdown menu for date, city, state, country, and shape.
@@ -32,4 +32,4 @@ the number of results found are also displayed along with the filtered results/ 
 
 All the filters can be reset to the default (no selection) option using the 'Reset Filters' button.
 
-![]()
+![](https://github.com/Aastha-Arora/javascript-challenge/blob/master/UFO-level-2/static/images/Screen%20Shot%20UFO%20Level%202.png)
