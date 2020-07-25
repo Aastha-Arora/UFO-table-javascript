@@ -1,7 +1,7 @@
 ## JavaScript and DOM Manipulation
 DOM Manipulation using JavaScript, HTML, and CSS, and D3.js
 
-Webpage Links
+Webpage Links (Hosted on GitHub pages)
 #### UFO Level 1
 https://aastha-arora.github.io/javascript-challenge/UFO-level-1/
 
