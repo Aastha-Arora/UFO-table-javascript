@@ -24,8 +24,8 @@ If no date is entered by the user, all the alien sightings in the dataset are di
 ![](https://github.com/Aastha-Arora/javascript-challenge/blob/master/UFO-level-1/static/images/Screen%20Shot%20UFO%20Level%201.png)
 
 ## UFO Level 2
-This page provides the user with an option to filter resuts based on multiple inputs in the form of dropdown menu for date, city, state, country, and shape.
-Data can be filtered on multiple input fields. The webpage provides the functionality to deselect a filter if needed. 
+This page provides the user with an option to filter resuts based on multiple inputs in the form of dropdown menus for date, city, state, country, and shape.
+The webpage also provides the functionality to deselect a filter if needed. 
 
 Java Script code listens for an change in values of any of the dropdown menu fields and filters the data accordingly. For each change,
 the number of results found are also displayed along with the filtered results/ rows in the HTML table.
